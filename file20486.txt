@@ -1,0 +1,4 @@
+Employee ID: 20486
+Employee Name: hamza
+Contact: 245165
+Salary: 452554
